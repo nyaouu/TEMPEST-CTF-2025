@@ -1,3 +1,8 @@
 https://lab.dropctf.live/file/tornado_trace.zip
 
+
 TEMPEST{}
+
+nyaouu:
+พอดีไฟล์มันเกิน 25MB github เลยไม่ใช้ upload
+ถ้าโหลดไฟล์ของเว็บไม่ได้ให้ใช้อันนี้นะครับ https://drive.google.com/file/d/1NdrmUAMLX0dOMmzy3__KPghYf_zDH9DT/view?usp=sharing
