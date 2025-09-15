@@ -1,0 +1,4 @@
+https://lab.dropctf.live/file/DeepEmbed.exe
+
+จงทำการ reverse engineer โปรแกรมและนำ flag มาตอบ
+STH{}

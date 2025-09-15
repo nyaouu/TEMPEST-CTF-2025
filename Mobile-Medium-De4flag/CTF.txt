@@ -1,0 +1,4 @@
+https://lab.dropctf.live/file/de4flag.apk
+
+JUST LOGIN_<
+STH{}

@@ -1,0 +1,7 @@
+https://lab.dropctf.live/file/Give-To-User.zip
+
+1. Artic Location EXIF
+2. South Pacific (องกรค์ไหนถ่ายภาพนี้?)
+3. atlantic (ปีของพายุ)
+4. เมือง และ รัฐ ที่เชื่อมโยงกับโจทย์นี้ format flag : ประเทศ_รัฐ
+5. Gathering ข้อมูลทั้งหมด และทำ Wordlist brute force zip ไฟล์ exp.zip และนำ password มาตอบ (คำตอบมีช่องว่าง และมี capital letter)

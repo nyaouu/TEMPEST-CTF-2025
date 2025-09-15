@@ -1,0 +1,2 @@
+ใช้ข้อมูลจากข้อ GREAT STORM ให้เป็นประโยชน์
+โค้ดสำหรับข้อนี้ : https://lab.dropctf.live/file/forecast.c

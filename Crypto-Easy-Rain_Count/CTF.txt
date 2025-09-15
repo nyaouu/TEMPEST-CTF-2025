@@ -1,0 +1,4 @@
+https://lab.dropctf.live/file/Rain_Count.txt
+
+จงถอดรหัสและนำ flag มาตอบ
+TEMPEST{}

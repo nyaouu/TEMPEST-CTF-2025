@@ -1,0 +1,3 @@
+ใช้เทคนิค prompt injection ในการหา flag และนำมาตอบ
+
+TEMPEST{}
